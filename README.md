@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 <a href="https://github.com/Samarpan1122/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api?username=Samarpan1122&&show_icons=true&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api?username=Samarpan1122&&show_icons=true&count_private=true&theme=synthwave" />
 </a>
 </div>
 <br/>
