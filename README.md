@@ -28,7 +28,6 @@
 </a>
 </div>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Samarpan1122"/>
 </div>
