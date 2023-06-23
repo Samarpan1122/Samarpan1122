@@ -24,11 +24,11 @@
 <br/>
 <div align="center">
 <a href="https://github.com/Samarpan1122/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api/top-langs/?username=Samarpan1122&&layout=compact&&langs_count=7&count_private=true&hide=CMake,WebAssembly,PureBasic,C,c%2B%2B,swift,kotlin&theme=dark&exclude_repo=configs,dotfiles"/>
+  <img align="center" src="https://github-readme-stats-dun-xi.vercel.app/api/top-langs/?username=Samarpan1122&&hide_progress=true&&langs_count=7&count_private=true&hide=CMake,WebAssembly,PureBasic,C,c%2B%2B,swift,kotlin&theme=dark&exclude_repo=configs,dotfiles"/>
 </a>
 </div>
 <br/>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Samarpan1122"/>
 </div>
