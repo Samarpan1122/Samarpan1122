@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **samarpanmohanty3347@gmail.com**
 
+## 🏆 My trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samarpan1122&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 📊 GitHub Stats:
 <div align="center">
 <a href="https://github.com/Samarpan1122/github-readme-stats">
