@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarpan</h1>
 <h3 align="center">A fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **How to make LLM from scratch**
 
 - 📫 How to reach me **samarpanmohanty3347@gmail.com**
 
